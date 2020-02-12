@@ -1,0 +1,36 @@
+[33mcommit 7113ee57ffeb69009fd93394b4cab1f8535039c8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Azamat <a.azamat2018@mail.ru>
+Date:   Fri Feb 7 19:06:03 2020 +0500
+
+    fix index.html
+
+[33mcommit 8a3b054f665e9a80685d2056f266af2671139f10[m
+Merge: 449f4ec eac234c
+Author: Azamat <a.azamat2018@mail.ru>
+Date:   Fri Feb 7 19:04:45 2020 +0500
+
+    fix index.html
+
+[33mcommit 449f4ecc763b6aaad40d84f8453f2786aeebb07f[m
+Author: Azamat <a.azamat2018@mail.ru>
+Date:   Fri Feb 7 19:03:43 2020 +0500
+
+    fix index.html
+
+[33mcommit e74e4f230768dcc7e01fe28b2466d6993f79956e[m
+Author: Azamat <a.azamat2018@mail.ru>
+Date:   Fri Feb 7 18:36:17 2020 +0500
+
+    init commit
+
+[33mcommit eac234ca34b4b0e17de6f56c071d0225f82a1660[m
+Author: khiwnik <60399881+khiwnik@users.noreply.github.com>
+Date:   Fri Feb 7 18:26:54 2020 +0500
+
+    Rename index1.html to index.html
+
+[33mcommit 9cf84a7eceaf7b4352a64ef67fd6a30d6d3348d4[m
+Author: Azamat <a.azamat2018@mail.ru>
+Date:   Fri Feb 7 17:55:53 2020 +0500
+
+    init commit
